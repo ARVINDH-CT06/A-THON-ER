@@ -1,0 +1,50 @@
+To-Do List Console App
+Basic Calculator
+Bank Management System
+Library Management System
+Student Information System
+File Compression Tool
+Simple Chat Application
+Tic-Tac-Toe Game
+Address Book
+Guess the Number Game
+Weather Data Management
+Inventory Management System
+Basic Quiz Application
+Student Grade Management System
+Simple Text Editor
+Traffic Simulation System
+Library Catalog System
+Recipe Management System
+Flashcard App
+Pomodoro Timer
+Expense Tracker Console App
+Digital Clock
+Basic Email Client
+Text-Based Adventure Game
+Simple URL Shortener
+Maze Solver
+Voice Command Application
+Simple Music Player
+Bank ATM Simulation
+Basic E-commerce System
+Password Manager
+Pattern Printing App
+Simple Voting System
+Memory Game
+Hangman Game
+Basic Web Browser
+Unit Converter
+Movie Ticket Booking System
+Event Scheduling System
+Simple Forum System
+Library System with File Handling
+Console-Based Calendar App
+Basic Image Viewer
+Data Encryption and Decryption Tool
+Basic E-learning Platform
+Simple CRM System
+Game Score Tracker
+Weather Forecast Console App
+Simple Chatbot
+Basic Quiz Competition System
